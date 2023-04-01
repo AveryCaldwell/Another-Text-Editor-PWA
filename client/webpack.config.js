@@ -5,7 +5,6 @@ const { InjectManifest } = require('workbox-webpack-plugin');
 
 // TODO: Add and configure workbox plugins for a service worker and manifest file.
 
-
 module.exports = () => {
     return {
         mode: 'development',
@@ -25,10 +24,9 @@ module.exports = () => {
             // Webpack plugin that generates our html file and injects our bundles.
             new HtmlWebpackPlugin({
                 template: './index.html',
-                title: 'Just Another Text Editor',
+                title: 'Webpack Plugin',
             }),
             // //FIXME - added inject
-            // new MiniCssExtractPlugin(),
             // Injects our custom service worker
             new InjectManifest({
                 swSrc: './src-sw.js',
