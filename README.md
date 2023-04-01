@@ -69,7 +69,10 @@ THEN I should have proper build scripts for a webpack application
 
 ### __User Experience 👤__
  
+ TODO: UPDATE section
+ 
  - Run `npm run start` from the root directory
+ - Run `npm install idb` to store data to an IndexedDB database
 
 <br>
 
@@ -79,6 +82,7 @@ THEN I should have proper build scripts for a webpack application
 
 ​<br>
 
+TODO: UPDATE IMAGE
 ![](./public/images/Screenshot.png)
 ​
 ​<br>
@@ -86,7 +90,7 @@ THEN I should have proper build scripts for a webpack application
 ### __Links 🔗__
 TODO: UPDATE LINKS
 - The URL of the deployed application: 
-- Github Repository: 
+- Github Repository: [https://github.com/AveryCaldwell/Another-Text-Editor-PWA](https://github.com/AveryCaldwell/Another-Text-Editor-PWA)
 
 <br>
 <hr>
@@ -95,9 +99,9 @@ TODO: UPDATE LINKS
 ##  __My process 💡__
 
 ###  Built with 🔨
-- JavaScript
-- GitHub
-- Gist
+- JavaScript, PWA
+- WebpackPwaManifest plugin, idb
+- GitHub, Heroku
 
 <br>
 
