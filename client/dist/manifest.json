@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Another Text Editor PWA",
-  "short_name": "Text Editor",
+  "name": "Just Another Text Editor",
+  "short_name": "JATE",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",
-  "description": "A text editor single-page application that runs in the browser, meets the PWA criteria, and features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser",
+  "description": "Just Another Text Editor",
   "background_color": "#225ca3",
   "theme_color": "#225ca3"
 }
