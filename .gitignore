@@ -1,4 +1,8 @@
-node_modules
-DS_Store
 criteria.md
 assets
+.DS_Store
+node_modules
+client/node_modules
+server/node_modules
+client/dist
+.env
