@@ -2,13 +2,6 @@
 import { getDb, putDb } from './database';
 import { header } from './header';
 
-// FIXME- from idb website
-// import { openDB, deleteDB, wrap, unwrap } from 'idb';
-
-// async function doDatabaseStuff() {
-//   const db = await openDB(…);
-// }
-
 export default class {
     constructor() {
         const localData = localStorage.getItem('content');
