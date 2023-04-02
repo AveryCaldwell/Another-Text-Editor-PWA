@@ -69,21 +69,18 @@ THEN I should have proper build scripts for a webpack application
 
 ### __User Experience 👤__
  
- TODO: UPDATE section
  
- - Run `npm run start` from the root directory
- - Run `npm install idb` to store data to an IndexedDB database
+ - Run `npm install` to install dependencies
+ - Then, run `npm run start` from the root directory
 
 <br>
 
-<br>
 
 ### __Screenshot 📸__
 
 ​<br>
 
-TODO: UPDATE IMAGE
-![](./public/images/Screenshot.png)
+![](./client/dist/assets/screenshot.png )
 ​
 ​<br>
 
