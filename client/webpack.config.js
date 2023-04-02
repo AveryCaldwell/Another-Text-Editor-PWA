@@ -20,13 +20,13 @@ module.exports = () => {
             path: path.resolve(__dirname, 'dist'),
         },
         plugins: [
-            // FIXME added indexedDB
+            // added indexedDB
             // Webpack plugin that generates our html file and injects our bundles.
             new HtmlWebpackPlugin({
                 template: './index.html',
                 title: 'Webpack Plugin',
             }),
-            // //FIXME - added inject
+            //  added inject
             // Injects our custom service worker
             new InjectManifest({
                 swSrc: './src-sw.js',
