@@ -39,10 +39,7 @@ export const getDb = async () => {
     // Get confirmation of the request.
     const result = await request;
     console.log('result.value', result);
-    // FIX ME : result or result.value
     return result.value;
 };
-
-// console.error('getDb not implemented');
 
 initdb();
