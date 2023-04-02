@@ -88,8 +88,7 @@ TODO: UPDATE IMAGE
 ​<br>
 
 ### __Links 🔗__
-TODO: UPDATE LINKS
-- The URL of the deployed application: 
+- The URL of the deployed application: [https://cherry-pudding-37228.herokuapp.com/](https://cherry-pudding-37228.herokuapp.com/)
 - Github Repository: [https://github.com/AveryCaldwell/Another-Text-Editor-PWA](https://github.com/AveryCaldwell/Another-Text-Editor-PWA)
 
 <br>
