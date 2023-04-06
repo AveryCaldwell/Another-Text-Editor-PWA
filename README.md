@@ -122,4 +122,4 @@ THEN I should have proper build scripts for a webpack application
 
 ### __Grade🗄️__ 
 
-- TBD
+- 100/100
